@@ -1,10 +1,12 @@
 # **Introduction(소개)**
 
-C++ 함수를 직접 구현하는 프로젝트입니다.
+C++ 함수/클래스를 직접 구현하는 프로젝트입니다.
 
 [![Development Note p.57](https://img.youtube.com/vi/NAROsSixOLM/0.jpg)](https://www.youtube.com/watch?v=NAROsSixOLM)
 
 [![Development Note p.69](https://img.youtube.com/vi/RTtTkrSrNZ4/0.jpg)](https://www.youtube.com/watch?v=RTtTkrSrNZ4)
+
+[![Development Note p.71](https://img.youtube.com/vi/AfYu9OPxcQs/0.jpg)](https://www.youtube.com/watch?v=AfYu9OPxcQs)
 
 # **Links(링크)**
 
