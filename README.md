@@ -4,6 +4,8 @@ C++ 함수를 직접 구현하는 프로젝트입니다.
 
 [![Development Note p.57](https://img.youtube.com/vi/NAROsSixOLM/0.jpg)](https://www.youtube.com/watch?v=NAROsSixOLM)
 
+[![Development Note p.69](https://img.youtube.com/vi/RTtTkrSrNZ4/0.jpg)](https://www.youtube.com/watch?v=RTtTkrSrNZ4)
+
 # **Links(링크)**
 
 * [JkhTV YouTube(장경혁tv)](https://www.youtube.com/channel/UC0lR1aYGgOhFioC3IsazUtw)
